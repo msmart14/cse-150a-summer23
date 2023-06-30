@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 🤝 Team
+title: Team
 description: A listing of all the course staff members.
-nav_order: 6
+nav_order: 3
 ---
 
 # 🤝 Team
