@@ -1,0 +1,44 @@
+{"0": {
+    "doc": "📆 Calendar",
+    "title": "📆 Calendar",
+    "content": "TODO: embed a course calendar here. ",
+    "url": "/calendar/",
+    "relUrl": "/calendar/"
+  },"1": {
+    "doc": "🏠 Home",
+    "title": "AI: Probabilistic Reasoning",
+    "content": "CSE 150A, Summer 2023 at UC San Diego . Mary Anne Smart she/her . msmart@ucsd.edu . Lecture: MTuWTh 2-3:20PM, Warren Lecture Hall 2111 . Jump to the current week . This site is under construction and everything is subject to change! . Week 1 – Probability Basics . Mon Jul 3 LEC 1 TBA . 🎥 . Tue Jul 4 No LEC No Lecture, Independence Day Holiday! . No DISC No Discussion . Wed Jul 5 LEC 2 TBA . 🎥 . Thu Jul 6 LEC 3 TBA . 🎥 . DISC 1 Discussion 1 . Fri Jul 7 HW 1 HW 1 . ",
+    "url": "/#ai-probabilistic-reasoning",
+    "relUrl": "/#ai-probabilistic-reasoning"
+  },"2": {
+    "doc": "🏠 Home",
+    "title": "🏠 Home",
+    "content": " ",
+    "url": "/",
+    "relUrl": "/"
+  },"3": {
+    "doc": "🤝 Team",
+    "title": "🤝 Team",
+    "content": " ",
+    "url": "/staff/",
+    "relUrl": "/staff/"
+  },"4": {
+    "doc": "🤝 Team",
+    "title": "Instructor",
+    "content": "Mary Anne Smart she/her . msmart@ucsd.edu Lecture: MTuWTh 2-3:20PM, Warren Lecture Hall 2111 . Mary Anne Smart is a sixth year PhD candidate in CSE. After working as a TA for various CSE courses, Mary Anne is excited to be teaching CSE 150A as the instructor-of-record for the first time this summer. ",
+    "url": "/staff/#instructor",
+    "relUrl": "/staff/#instructor"
+  },"5": {
+    "doc": "🤝 Team",
+    "title": "Staff",
+    "content": "TA Rishikanth Chandrasekaran he/him . r3chandr@eng.ucsd.edu . Tutor Weiyue Li he/him . wel019@ucsd.edu . Tutor Aaron Liu he/him . aal006@ucsd.edu . ",
+    "url": "/staff/#staff",
+    "relUrl": "/staff/#staff"
+  },"6": {
+    "doc": "📖 Syllabus",
+    "title": "📖 Syllabus",
+    "content": ". Access the course syllabus here. ",
+    "url": "/syllabus/",
+    "relUrl": "/syllabus/"
+  }
+}
