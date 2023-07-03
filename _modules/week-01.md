@@ -20,10 +20,10 @@
           "**LEC 3**{: .label .label-lecture } [TBA]()":
             "[🎥]()"
           "**DISC 1**{: .label .label-disc } Discussion 1":
-          "**Refl 1**{: .label .label-reflect } [Reflection 1 due]()":
+          "**Refl 1**{: .label .label-reflect } [Reflection 1 due](https://canvas.ucsd.edu/courses/47968/assignments/659978)":
 
       - date: 2023-7-7
         events:
-          "**HW 1**{: .label .label-hw } [HW 1 due]()":
+          "**HW 1**{: .label .label-hw } [HW 1 due](https://canvas.ucsd.edu/courses/47968/assignments/659974)":
               
 ---
