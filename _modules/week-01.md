@@ -19,7 +19,7 @@
         events:
           "**LEC 3**{: .label .label-lecture } [TBA]()":
             "[🎥]()"
-          "**QUIZ 1**{: .label .label-disc } **QUIZ 1**":
+          "**QUIZ 1**{: .label .label-disc } **Quiz 1**":
           "**Refl 1**{: .label .label-reflect } [Reflection 1 due](https://canvas.ucsd.edu/courses/47968/assignments/659978)":
 
       - date: 2023-7-7
