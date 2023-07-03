@@ -10,7 +10,7 @@
         events:
           "**LEC 17**{: .label .label-lecture } [TBA]()":
             "[🎥]()"
-          "**QUIZ 4**{: .label .label-disc } **Quiz 4**":
+          "**QUIZ 5**{: .label .label-disc } **Quiz 5**":
       - date: 2023-8-2
         events:
           "**LEC 18**{: .label .label-lecture } [TBA]()":
