@@ -19,7 +19,7 @@
       - date: 2023-8-3
         events:
           "**Final**{: .label .label-exam } **Final Exam!**":
-          "**Reflect**{: .label .label-reflection } [Reflection 5 due]()":
+          "**Reflect**{: .label .label-reflect } [Reflection 5 due]()":
       - date: 2023-8-4
         events:
           "**HW 5**{: .label .label-hw } [HW 5 due]()":         

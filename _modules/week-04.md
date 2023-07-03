@@ -21,7 +21,7 @@
           "**LEC 15**{: .label .label-lecture } [TBA]()":
             "[🎥]()"
           "**DISC 7**{: .label .label-disc } Discussion 7":
-          "**Reflect**{: .label .label-reflection } [Reflection 4 due]()":
+          "**Reflect**{: .label .label-reflect } [Reflection 4 due]()":
 
       - date: 2023-7-28
         events:
