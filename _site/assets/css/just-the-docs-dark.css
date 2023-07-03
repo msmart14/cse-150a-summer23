@@ -2426,7 +2426,7 @@ a.skip-to-main:focus, a.skip-to-main:active { color: #2c84fa; background-color: 
 .module-days .module-event .label-anno { background-color: #E94C4B; text-align: center; border-radius: 6px; width: 70px; }
 .module-days .module-event .label-exam { background-color: #000000; text-align: center; border-radius: 6px; width: 70px; }
 .module-days .module-event .label-hw { background-color: #F2C76E; text-align: center; border-radius: 6px; width: 70px; }
-.module-days .module-event .label-reflect { background-color: #15c768; text-align: center; border-radius: 6px; width: 70px; }
+.module-days .module-event .label-reflect { background-color: #007600; text-align: center; border-radius: 6px; width: 70px; }
 
 .text-grey-dk-100, .staffer .staffer-pronouns, .label-lecture { color: #5c5962 !important; }
 
