@@ -1,0 +1,26 @@
+---
+    title: Week 5 – More RL and Final Exam!
+    weekNumber: 5
+    days:
+      - date: 2023-7-31
+        events:
+          "**LEC 16**{: .label .label-lecture } [TBA]()":
+            "[🎥]()"
+      - date: 2023-8-1
+        events:
+          "**LEC 17**{: .label .label-lecture } [TBA]()":
+            "[🎥]()"
+          "**QUIZ 4**{: .label .label-disc } **Quiz 4**":
+      - date: 2023-8-2
+        events:
+          "**LEC 18**{: .label .label-lecture } [TBA]()":
+            "[🎥]()"  
+
+      - date: 2023-8-3
+        events:
+          "**Final**{: .label .label-exam } **Final Exam!**":
+          "**Reflect**{: .label .label-reflection } [Reflection 5 due]()":
+      - date: 2023-8-4
+        events:
+          "**HW 5**{: .label .label-hw } [HW 5 due]()":         
+---

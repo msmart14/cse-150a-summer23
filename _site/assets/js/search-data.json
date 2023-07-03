@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Home",
     "title": "AI: Probabilistic Reasoning",
-    "content": "CSE 150A, Summer 2023 at UC San Diego . Mary Anne Smart she/her . msmart@ucsd.edu . Lecture: MTuWTh 2-3:20PM, Warren Lecture Hall 2111 . Jump to the current week . This site is under construction and everything is subject to change! . Week 1 – Probability Basics . Mon Jul 3 LEC 1 TBA . 🎥 . Tue Jul 4 No LEC No Lecture, Independence Day Holiday! . No DISC No Discussion . Wed Jul 5 LEC 2 TBA . 🎥 . Thu Jul 6 LEC 3 TBA . 🎥 . DISC 1 Discussion 1 . Fri Jul 7 HW 1 HW 1 . ",
+    "content": "CSE 150A, Summer 2023 at UC San Diego . Mary Anne Smart she/her . msmart@ucsd.edu . Lecture: MTuWTh 2-3:20PM, Warren Lecture Hall 2111 . Jump to the current week . This site is under construction and everything is subject to change! . Week 1 – Probability Basics . Mon Jul 3 LEC 1 TBA . 🎥 . Tue Jul 4 No LEC No Lecture, Independence Day Holiday! . No DISC No Discussion . Wed Jul 5 LEC 2 TBA . 🎥 . Thu Jul 6 LEC 3 TBA . 🎥 . DISC 1 Discussion 1 . Reflect Reflection 1 due . Fri Jul 7 HW 1 HW 1 due . Week 2 – Bayes Nets and Maximum Likelihood . Mon Jul 10 LEC 4 TBA . 🎥 . Tue Jul 11 LEC 5 TBA . 🎥 . QUIZ 1 Quiz 1 . Wed Jul 12 LEC 6 TBA . 🎥 . Thu Jul 13 LEC 7 TBA . 🎥 . DISC 3 Discussion 3 . Reflect Reflection 2 due . Fri Jul 14 HW 2 HW 2 due . Week 3 – EM, HMM, and Take-home Midterm! . Mon Jul 17 LEC 8 TBA . 🎥 . MT Take-home Midterm Release! (Due: TBA) . Tue Jul 18 LEC 9 TBA . 🎥 . QUIZ 2 Quiz 2 . Wed Jul 19 LEC 10 TBA . 🎥 . Thu Jul 20 LEC 11 TBA . 🎥 . DISC 5 Discussion 5 . Reflect Reflection 3 due . Fri Jul 21 HW 3 HW 3 due . Week 4 – More HMM and RL . Mon Jul 24 LEC 12 TBA . 🎥 . Tue Jul 25 LEC 13 TBA . 🎥 . QUIZ 3 Quiz 3 . Wed Jul 26 LEC 14 TBA . 🎥 . Thu Jul 27 LEC 15 TBA . 🎥 . DISC 7 Discussion 7 . Reflect Reflection 4 due . Fri Jul 28 HW 4 HW 4 due . Week 5 – More RL and Final Exam! . Mon Jul 31 LEC 16 TBA . 🎥 . Tue Aug 1 LEC 17 TBA . 🎥 . QUIZ 4 Quiz 4 . Wed Aug 2 LEC 18 TBA . 🎥 . Thu Aug 3 Final Final Exam! . Reflect Reflection 5 due . Fri Aug 4 HW 5 HW 5 due . ",
     "url": "/#ai-probabilistic-reasoning",
     "relUrl": "/#ai-probabilistic-reasoning"
   },"1": {
@@ -25,7 +25,7 @@
   },"4": {
     "doc": "Team",
     "title": "Staff",
-    "content": "TA Rishikanth Chandrasekaran he/him . r3chandr@eng.ucsd.edu . Tutor Weiyue Li he/him . wel019@ucsd.edu . Tutor Aaron Liu he/him . aal006@ucsd.edu . ",
+    "content": "TA Rishikanth Chandrasekaran he/him . r3chandr@eng.ucsd.edu . Coming soon 👀 . Tutor Weiyue Li he/him . wel019@ucsd.edu . Hello! I am an incoming 4th-year student in Data Science. I am excited about tutoring this class because I am passionate about learning about AI, and I am currently collaborating on a VLM and LLM project. Please reach out to me if you have any questions! . Tutor Aaron Liu he/him . aal006@ucsd.edu . Hi, I’m Aaron, I’ve just finished my second year of undergrad as a Computer Science major. My main interests are in deep learning and artificial intelligence and outside of school I like to bike and play soccer. ",
     "url": "/staff/#staff",
     "relUrl": "/staff/#staff"
   },"5": {

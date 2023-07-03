@@ -20,9 +20,10 @@
           "**LEC 3**{: .label .label-lecture } [TBA]()":
             "[🎥]()"
           "**DISC 1**{: .label .label-disc } Discussion 1":
+          "**Reflect**{: .label .label-reflection } [Reflection 1 due]()":
 
       - date: 2023-7-7
         events:
-          "**HW 1**{: .label .label-hw } [HW 1]()":
+          "**HW 1**{: .label .label-hw } [HW 1 due]()":
               
 ---
