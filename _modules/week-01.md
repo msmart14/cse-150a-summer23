@@ -4,7 +4,7 @@
     days:
       - date: 2023-7-3
         events:
-          "**LEC 1**{: .label .label-lecture } [TBA]()":
+          "**LEC 1**{: .label .label-lecture } [Introduction](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10117727)":
             "[🎥]()"
       - date: 2023-7-4
         events:
