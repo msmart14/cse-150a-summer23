@@ -25,6 +25,6 @@
 
       - date: 2023-7-14
         events:
-          "**HW 2**{: .label .label-hw } [HW 2 due]()":
+          "**HW 2**{: .label .label-hw } [HW 2 due](https://canvas.ucsd.edu/courses/47968/assignments/659975)":
               
 ---
