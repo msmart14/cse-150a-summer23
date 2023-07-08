@@ -20,8 +20,8 @@ nav_order: 1
 
 
 
-{: .warning }
-**This site is under construction and everything is subject to change!**
+<!-- {: .warning }
+**This site is under construction and everything is subject to change!** -->
 
 <!-- {: .note }
 To view the lecture recordings, click on the 🎥 button for each lecture. -->
