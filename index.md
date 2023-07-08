@@ -23,8 +23,8 @@ nav_order: 1
 <!-- {: .warning }
 **This site is under construction and everything is subject to change!** -->
 
-<!-- {: .note }
-To view the lecture recordings, click on the 🎥 button for each lecture. -->
+{: .note }
+To view the lecture recordings, click on the 🎥 button for each lecture.
 
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y18wNGM0Zjk4MGU3NTNhNjA4MWJjOWYxMjAzYjhkMmQ2N2MyOTVjZjk3ZTIwYWQwNzU1ZGQ3ZTZjNjUwOWZmNTUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
