@@ -5,22 +5,22 @@
       - date: 2023-7-17
         events:
           "**LEC 8**{: .label .label-lecture } [TBA]()":
-            "[🎥]()"
+            # "[🎥]()"
           "**MT**{: .label .label-exam } **[Take-home Midterm Release! (Due: TBA)]()**":
       - date: 2023-7-18
         events:
           "**LEC 9**{: .label .label-lecture } [TBA]()":
-            "[🎥]()" 
+            # "[🎥]()" 
           "**QUIZ 3**{: .label .label-disc } **Quiz 3**":
       - date: 2023-7-19
         events:
           "**LEC 10**{: .label .label-lecture } [TBA]()":
-            "[🎥]()"  
+            # "[🎥]()"  
 
       - date: 2023-7-20
         events:
           "**LEC 11**{: .label .label-lecture } [TBA]()":
-            "[🎥]()"
+            # "[🎥]()"
           "**DISC 5**{: .label .label-disc } Discussion 5":
           "**Refl 3**{: .label .label-reflect } [Reflection 3 due]()":
 
