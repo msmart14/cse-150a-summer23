@@ -4,7 +4,7 @@
     days:
       - date: 2023-7-10
         events:
-          "**LEC 4**{: .label .label-lecture } [TBA]()":
+          "**LEC 4**{: .label .label-lecture } [Bayes Net](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10130488)":
             "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/4)"
       - date: 2023-7-11
         events:
