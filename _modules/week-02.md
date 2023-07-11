@@ -8,20 +8,20 @@
             "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/4)"
       - date: 2023-7-11
         events:
-          "**LEC 5**{: .label .label-lecture } [TBA]()":
+          "**LEC 5**{: .label .label-lecture } TBA":
             # "[🎥]()" 
           "**QUIZ 2**{: .label .label-disc } **Quiz 2**":
       - date: 2023-7-12
         events:
-          "**LEC 6**{: .label .label-lecture } [TBA]()":
+          "**LEC 6**{: .label .label-lecture } TBA":
             # "[🎥]()"  
 
       - date: 2023-7-13
         events:
-          "**LEC 7**{: .label .label-lecture } [TBA]()":
+          "**LEC 7**{: .label .label-lecture } TBA":
             # "[🎥]()"
           "**DISC 3**{: .label .label-disc } Discussion 3":
-          "**Refl 2**{: .label .label-reflect } [Reflection 2 due]()":
+          "**Refl 2**{: .label .label-reflect } [Reflection 2 due](https://canvas.ucsd.edu/courses/47968/assignments/659979)":
 
       - date: 2023-7-14
         events:
