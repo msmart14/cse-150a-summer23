@@ -5,7 +5,7 @@
       - date: 2023-7-10
         events:
           "**LEC 4**{: .label .label-lecture } [TBA]()":
-            "[🎥]()"
+            "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/4)"
       - date: 2023-7-11
         events:
           "**LEC 5**{: .label .label-lecture } [TBA]()":
