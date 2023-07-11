@@ -4,7 +4,7 @@
     days:
       - date: 2023-7-17
         events:
-          "**LEC 8**{: .label .label-lecture } ":
+          "**LEC 8**{: .label .label-lecture } TBA":
             # "[🎥]()"
           "**MT**{: .label .label-exam } **Take-home Midterm Release! (Due: TBA)**":
       - date: 2023-7-18
