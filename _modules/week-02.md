@@ -8,13 +8,13 @@
             "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/4)"
       - date: 2023-7-11
         events:
-          "**LEC 5**{: .label .label-lecture } TBA":
-            # "[🎥]()" 
+          "**LEC 5**{: .label .label-lecture } [Bayes Net, Conditional Independence, and Markov Blanket](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10133854)":
+            "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/5)"
           "**QUIZ 2**{: .label .label-disc } **Quiz 2**":
       - date: 2023-7-12
         events:
-          "**LEC 6**{: .label .label-lecture } TBA":
-            # "[🎥]()"  
+          "**LEC 6**{: .label .label-lecture } [Inference in Bayes Nets, Polytree](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10135867)":
+            "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/6)" 
 
       - date: 2023-7-13
         events:
