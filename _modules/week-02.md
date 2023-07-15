@@ -18,8 +18,8 @@
 
       - date: 2023-7-13
         events:
-          "**LEC 7**{: .label .label-lecture } TBA":
-            # "[🎥]()"
+          "**LEC 7**{: .label .label-lecture } [MLE](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10138119)":
+            "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/7)"
           "**DISC 3**{: .label .label-disc } Discussion 3":
           "**Refl 2**{: .label .label-reflect } [Reflection 2 due](https://canvas.ucsd.edu/courses/47968/assignments/659979)":
 
