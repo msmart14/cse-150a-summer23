@@ -4,8 +4,8 @@
     days:
       - date: 2023-7-17
         events:
-          "**LEC 8**{: .label .label-lecture } TBA":
-            # "[🎥]()"
+          "**LEC 8**{: .label .label-lecture } [MLE, Naive Bayes, Markov Models, and Noisy-OR](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10146940)":
+            "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/8)"
           "**MT**{: .label .label-exam } **Take-home Midterm Release! (Due: TBA)**":
       - date: 2023-7-18
         events:
