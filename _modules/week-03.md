@@ -14,7 +14,7 @@
           "**QUIZ 3**{: .label .label-disc } **Quiz 3**":
       - date: 2023-7-19
         events:
-          "**LEC 10**{: .label .label-lecture } TBA":
+          "**LEC 10**{: .label .label-lecture } Optional Midterm Q&A":
             # "[🎥]()"  
 
       - date: 2023-7-20
