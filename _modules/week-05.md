@@ -4,16 +4,16 @@
     days:
       - date: 2023-7-31
         events:
-          "**LEC 16**{: .label .label-lecture } TBA":
+          "**LEC 15**{: .label .label-lecture } TBA":
             # "[🎥]()"
       - date: 2023-8-1
         events:
-          "**LEC 17**{: .label .label-lecture } TBA":
+          "**LEC 16**{: .label .label-lecture } TBA":
             # "[🎥]()"
           "**QUIZ 5**{: .label .label-disc } **Quiz 5**":
       - date: 2023-8-2
         events:
-          "**LEC 18**{: .label .label-lecture } TBA":
+          "**LEC 17**{: .label .label-lecture } TBA":
             # "[🎥]()"  
 
       - date: 2023-8-3
