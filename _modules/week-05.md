@@ -22,5 +22,5 @@
           "**Refl 5**{: .label .label-reflect } [Reflection 5 due](https://canvas.ucsd.edu/courses/47968/assignments/659981)":
       - date: 2023-8-4
         events:
-          "**HW 5**{: .label .label-hw } [HW 5 due](https://canvas.ucsd.edu/courses/47968/assignments/659977)":         
+          "**HW 5**{: .label .label-hw } [HW 5 due](https://canvas.ucsd.edu/courses/47968/assignments/659977)":      
 ---
