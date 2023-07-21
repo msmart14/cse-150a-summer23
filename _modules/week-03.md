@@ -14,13 +14,13 @@
           "**QUIZ 3**{: .label .label-disc } **Quiz 3**":
       - date: 2023-7-19
         events:
-          "**LEC 10**{: .label .label-lecture } Optional Midterm Q&A":
+          "**NO LEC**{: .label .label-anno } **Optional Midterm Q&A**":
             # "[🎥]()"  
 
       - date: 2023-7-20
         events:
-          "**LEC 11**{: .label .label-lecture } TBA":
-            # "[🎥]()"
+          "**LEC 10**{: .label .label-lecture } [More EM and Noisy-OR](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10156426)":
+            "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/11)" 
           "**DISC 5**{: .label .label-disc } Discussion 5":
           "**Refl 3**{: .label .label-reflect } [Reflection 3 due](https://canvas.ucsd.edu/courses/47968/assignments/659980)":
 
