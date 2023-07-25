@@ -4,7 +4,7 @@
     days:
       - date: 2023-7-24
         events:
-          "**LEC 11**{: .label .label-lecture } TBA":
+          "**LEC 11**{: .label .label-lecture } [Hidden Markov Models](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10165987)":
             # "[🎥]()"
       - date: 2023-7-25
         events:
