@@ -6,7 +6,7 @@
         events:
           "**LEC 8**{: .label .label-lecture } [MLE, Naive Bayes, Markov Models, and Noisy-OR](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10146940)":
             "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/8)"
-          "**MT**{: .label .label-exam } [**Take-home Midterm Release! (Due: July 24th at 11:59 pm)**](https://canvas.ucsd.edu/courses/47968/assignments/659967)":
+          "**MT**{: .label .label-exam } [**Take-home Midterm Release! (Due: July 25th at 12:00 pm)**](https://canvas.ucsd.edu/courses/47968/assignments/659967)":
       - date: 2023-7-18
         events:
           "**LEC 9**{: .label .label-lecture } [Expectation Maximization](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10150312)":
