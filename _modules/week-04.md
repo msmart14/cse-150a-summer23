@@ -18,8 +18,8 @@
 
       - date: 2023-7-27
         events:
-          "**LEC 14**{: .label .label-lecture } TBA":
-            # "[🎥]()"
+          "**LEC 14**{: .label .label-lecture } [Reinforcement Learning](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10176341)":
+            "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/15)"
           "**DISC 7**{: .label .label-disc } Discussion 7":
           "**Refl 4**{: .label .label-reflect } [Reflection 4 due](https://canvas.ucsd.edu/courses/47968/assignments/659982)":
 
