@@ -4,8 +4,8 @@
     days:
       - date: 2023-7-31
         events:
-          "**LEC 15**{: .label .label-lecture } TBA":
-            # "[🎥]()"
+          "**LEC 15**{: .label .label-lecture } [Markov Decision Processes](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10197772)":
+            "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/16)"
       - date: 2023-8-1
         events:
           "**LEC 16**{: .label .label-lecture } TBA":
