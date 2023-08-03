@@ -8,8 +8,8 @@
             "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/16)"
       - date: 2023-8-1
         events:
-          "**LEC 16**{: .label .label-lecture } TBA":
-            # "[🎥]()"
+          "**LEC 16**{: .label .label-lecture } [Q-Learning](https://canvas.ucsd.edu/courses/47968/files/folder/Lecture%20Slides?preview=10197760)":
+            "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/17)"
           "**QUIZ 5**{: .label .label-disc } **Quiz 5**":
       - date: 2023-8-2
         events:
