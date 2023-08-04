@@ -18,9 +18,11 @@
 
       - date: 2023-8-3
         events:
-          "**Final**{: .label .label-exam } **Final Exam!**":
+          "**LEC 18**{: .label .label-lecture } Reviews":
+            "[🎥](https://podcast.ucsd.edu/watch/s123/cse150a_a00/19)"
           "**Refl 5**{: .label .label-reflect } [Reflection 5 due](https://canvas.ucsd.edu/courses/47968/assignments/659981)":
       - date: 2023-8-4
         events:
+          "**Final**{: .label .label-exam } **Final Exam!**":
           "**HW 5**{: .label .label-hw } [HW 5 due](https://canvas.ucsd.edu/courses/47968/assignments/659977)":      
 ---
